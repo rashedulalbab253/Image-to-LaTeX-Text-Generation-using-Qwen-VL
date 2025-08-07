@@ -2,6 +2,12 @@
 
 This project demonstrates how to fine-tune the [Qwen2-VL-7B-Instruct](https://huggingface.co/unsloth/Qwen2-VL-7B-Instruct) vision-language model using the [Unsloth](https://github.com/unslothai/unsloth) library for the task of LaTeX Optical Character Recognition (OCR). The goal is to enable the model to generate accurate LaTeX code from images containing mathematical formulas.
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
+---
+
 ## Features
 
 - **Efficient Fine-Tuning:** Utilizes 4-bit quantization and LoRA for parameter-efficient training.
